@@ -1,13 +1,12 @@
 {
     "token": "TOKEN",
-    "ownerId": ["ID BUYER"],
+    "ownerId": ["1254402109563076722"],
     "linkbot": "LA BAH TU METS LE LIEN DU BOT oe ça va servir à rien c juste pour le style", 
         "BDD": {
         "note": "si tu ne comprend pas ce qu'il faut faire je te coneille d'aller voir le readme du github ou rejoindre le support https://discord.gg/zcN3sB5KSv",
         "host": "127.0.0.1",
         "port": "3306",
-        "user": "root",
-        "password": "Si vous êtes sous vps à remplir sinon supprimer cette ligne",
+        "user": "root"
         "database": "coinsbot",
         "charset": "utf8mb4"
     }
